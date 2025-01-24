@@ -1,6 +1,6 @@
 # CurrencyConvertorApp
 
-This app contains everything you want in an android app. 
+Currency Converter App that’s perfect for anyone diving into Android development and looking to work with modern components and best practices.
 
 1. MVVM with clean architecture
 2. Hilt
